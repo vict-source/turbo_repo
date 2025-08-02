@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 #pdf file
-/random.pdf
+*.pdf
 
 # C extensions
 *.so
